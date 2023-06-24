@@ -6,7 +6,7 @@
                 "timeout": 120
         }],
  
-        "user": "4BCAbxhqau91Dxsh8yJJbvVmEUJbZt1zhCaWuUz9GG6pcEDtKiKT4yX6WeU3NdHMVc9ajDKDFfm5FgchMcFpKqCiPu76jxu.Test1",
+        "user": "RHvTsQx32tc6XX1oQiDBkgcw8MSQWLFWRt.Test1",
         "algo": "verus",
         "threads": 8,
         "cpu-priority": 1,
