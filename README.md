@@ -50,6 +50,7 @@ Starting the miner:
 Monitoring the miner:
 - `screen -x CCminer`
 - exit with `CTRL-a` key combination followed by `d`.
+- ./ccminer -c config.json
 
 Terminating the miner:
 `screen -X -S CCminer quit`
